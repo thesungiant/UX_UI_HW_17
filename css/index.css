@@ -56,7 +56,7 @@ p {font-size: 25px;}
   display: flex;
   flex-direction: column;
   justify-content: end;
-  background: url("images/flowers.png") no-repeat;
+  background: url("../images/flowers.png") no-repeat;
   height:400px;
   padding: 50px;
   background-size:cover;
